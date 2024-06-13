@@ -3,7 +3,7 @@
 
 - Web app url : https://lively-grass-0467dd000.5.azurestaticapps.net/
 
-- Demo video url : 
+- Demo video: 
 
 https://github.com/Prasuna007/TravEasy/assets/171471773/4cd560fe-1bbf-408e-923d-2b0b91de242d
 
