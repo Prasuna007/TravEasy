@@ -13,7 +13,7 @@ https://github.com/Prasuna007/TravEasy/assets/171471773/4cd560fe-1bbf-408e-923d-
 <p>.</p>
   <p>.</p>
 <p>.</p>
-# TravEasy
+#TravEasy
 - An AI-Driven Travel Itinerary Planner and Route Finder.
 
 The goal of developing TravEasy is to create an intelligent and user-friendly travel itinerary planner that leverages Microsoft Azure resources to help users effortlessly locate the route using Azure Maps, and to provide activity suggestions through an AI-powered chatbot assistant based on the user's location and preferences.
@@ -59,7 +59,7 @@ Automatic zoom and focus on travel routes.
 <p>.</p>
 The home page of our web application, TravEasy, is hosted using Azure Static Web Apps. 
 <p>.</p>
-<a href="https://white-tree-0e5d6a400.5.azurestaticapps.net/">Home Page</a><br>
+<a href="https://white-tree-0e5d6a400.5.azurestaticapps.net/](https://lively-grass-0467dd000.5.azurestaticapps.net/">Home Page</a><br>
 <p>.</p>
 <p>.</p>
      
