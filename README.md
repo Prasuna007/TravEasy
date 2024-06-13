@@ -34,6 +34,8 @@ Automatic zoom and focus on travel routes.
 
 # Technologies Used
 
+![Screenshot (70)](https://github.com/Prasuna007/TravEasy/blob/main/ms_intern/assets/Screenshot%20(70).png)
+
 <h2>Core Azure Services:</h2>
 <h2>Static Web Apps</h2>
 - Azure Static Web App: Hosts the frontend of the application, delivering a seamless user experience with fast loading times and scalable infrastructure.
