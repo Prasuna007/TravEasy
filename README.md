@@ -1,11 +1,14 @@
 # FUTURE READY TALENT INTERNSHIP 2024
 # LINKS
+
+- Web app url : https://lively-grass-0467dd000.5.azurestaticapps.net/
+
 - Demo video url : 
 
 https://github.com/Prasuna007/TravEasy/assets/171471773/4cd560fe-1bbf-408e-923d-2b0b91de242d
 
 
-- Web app url : https://lively-grass-0467dd000.5.azurestaticapps.net/
+
 <p>.</p>
 <p>.</p>
   <p>.</p>
